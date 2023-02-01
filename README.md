@@ -1,3 +1,7 @@
+![alt text] https://github.com/Nuur-R/Belajar-Panel-Surya/blob/master/Makerdindo.png?raw=true
+
+
+
 ### Rumus - Rumus
 <!-- rumus perlu di tinjau ulang -->
 
