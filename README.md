@@ -29,3 +29,4 @@ https://www.edukasielektronika.com/2015/05/cara-menghitung-lama-waktu-pemakaian.
 Lama Penggunaan (Jam) = Kapasitas Battre (Ah)/Arus keluar (A) - deefisiensi Aki 20% (Kapasitas Battre/Arus keluar x 20%)
 - Pengujian Senin (06-2-2023)
 Lama Penggunaan = 7Ah/0.7A - (7Ah/0.7A x 20%)
+                = 10 jam - 2 jam = 8 jam
