@@ -1,22 +1,7 @@
-![alt text] https://github.com/Nuur-R/Belajar-Panel-Surya/blob/master/Makerdindo.png?raw=true
-
-
-
-### Rumus - Rumus
-<!-- rumus perlu di tinjau ulang -->
-
-- Daya panel surya (P):
-P = V x I, di mana V adalah tegangan panel surya dan I adalah arus panel surya.
-
-- Kapasitas baterai (C(Wh)):
-C = V x Ah, di mana V adalah tegangan baterai dan Ah adalah kapasitas baterai dalam Ampere-jam.
-
-- Waktu pengisian (T):
-T = C(Ah) / (P / V), di mana P adalah daya panel surya, V adalah tegangan pengisian dan C adalah kapasitas baterai.
-
-- Waktu baterai habis (T):
-T = C / I, dimana C adalah kapasitas baterai dan I adalah beban arus pada sistem yang dihidupkaan oleh baterai.
-
+### Berapa Ukuran Panel Surya untuk Mengisi Baterai 100Ah?
+https://pasangpanelsurya.com/ukuran-panel-surya-mengisi-baterai-100ah/#:~:text=Lebih%20penting%20lagi%2C%20jumlah%20panel,2%20jam%20matahari%20puncak%20sehari
+- baterai 100 Ah akan membutuhkan panel surya 180 Watt untuk mengisi penuh dari 50 persen DOD dengan asumsi 4,2 jam matahari puncak sehari.
+- tipe baterai yang baik di gunakan aadalah Li-Ion
 
 ### Perhitungan Pengisian Battre
 http://radegaol.blogspot.com/2016/02/cara-menghitung-lamanya-waktu-pengisian.html
